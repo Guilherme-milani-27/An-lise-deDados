@@ -38,3 +38,8 @@ Inicialmente, a base de dados continha 2000 registros, porém, 35 delas possuiam
 ### Análise dos dados
 
 O gráfico abaixo apresenta a frequência de vendas n promoção, e vendas normais:
+
+<div align="center">
+<img src="img/origem.png" />
+</div>
+
