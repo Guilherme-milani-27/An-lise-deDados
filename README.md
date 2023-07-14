@@ -9,10 +9,16 @@ As características do cliente ideal, que devem ser definidas de acordo com a em
 * Tempo de experiência e;
 * Quantidade de pessoas, que compõe a família do cliente.
 
- ### Roteiro para análise
+ # Sumário
+ 
+* [1. Base de dados](##1-Base-de-dados)
+* [2. Tratamento de dados](##2-tratamento-de-dados)
+* [3. Análise dos dados](##3-análise-dos-idiomas-originais)
+* [4. Definição do perfil do cliente ideal](##4-análise-notas)
+* [5. Conclusão](##6-conclusao)
 
 
- ### Base de dados
+ # 1. Base de dados
 
  A base de dados foi fornecida durante um treinamento, pela empresa Hashtag Programação.
  Canal no Youtube: https://www.youtube.com/@HashtagProgramacao
@@ -31,11 +37,11 @@ As características do cliente ideal, que devem ser definidas de acordo com a em
 | Tamanho família | Quantidade de pessoas que compõe a família do cliente |
 
 
-### Tratamento dos dados
+# 2. Tratamento dos dados
 
 Inicialmente, a base de dados continha 2000 registros, porém, 35 delas possuiam dados nulos (NA) na coluna profissão. Como esse atributo é importante na definição do perfil ideal do cliente, optou-se por excluir o registro desses clientes, da base de dados.
 
-### Análise dos dados
+# 3. Análise dos dados
 
 O gráfico abaixo apresenta a frequência de vendas n promoção, e vendas normais:  
 
@@ -53,7 +59,7 @@ O gráfico abaixo apresenta a frequência de vendas n promoção, e vendas norma
 
 Uma possível explicação é que, um cliente que realiza uma compra apenas quando há uma promoção, possui uma tendência a comprar em outras lojas, caso haja uma promoção melhor, enquanto um cliente que realiza compras normais, pode apresentar um maior nível de fidelidade a empresa, devido ao fato de não levar em consideração a existência de uma promoção ou não, para efetuar a compra.
 
-#### Definição do perfil do cliente ideal
+# 4. Definição do perfil do cliente ideal
 
 O gráfico abaixo, apresenta a média de notas atribuídas aos clientes pela empresa, em relação a idade:
 <div align="center">
@@ -90,7 +96,7 @@ Por fim, o gráfico seguinte, ilustra a influência do número de pessoas, que c
 
 Clientes com até 7 pessoas na família, apresentam uma boa avaliação por parte da empresa, a partir de 8 pessoas, a média de nota cai abruptamente.
 
-# Conclusão
+# 5. Conclusão
 
 O perfil do cliente ideal é:
 * Idade acima dos 15 anos;
